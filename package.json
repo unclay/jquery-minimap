@@ -1,0 +1,19 @@
+{
+  "name": "jquery-minimap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-minimap.js",
+  "scripts": {
+    "dev": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unclay/jquery-minimap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unclay/jquery-minimap/issues"
+  },
+  "homepage": "https://github.com/unclay/jquery-minimap#readme"
+}
